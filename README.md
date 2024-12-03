@@ -23,6 +23,7 @@ Planned Changes:
   - Adjust switch spacing to comfortably fit MX-style caps in combination with Choc V2 switches.
   - Experimental Bridging of both thumb keys with one big spacebar keycap.
   - Replace 3U (?) stabilizer footprints and replace with 2.5U or find a combination that supports the bridging goal above.
+  - Art cutout and acrylic plate files.
 
 ## Ordering and Assembling
 
