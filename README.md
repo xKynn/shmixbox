@@ -26,7 +26,7 @@ Planned Changes:
 
 ## Ordering and Assembling
 
-With substituting the additional instructions below where applicable, the same instructions from Open_Core0 WASD can be followed from [here](https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD)
+With substituting the additional instructions below where applicable, the same instructions from Open_Core0 WASD can be followed from [here](https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD) (Make sure to use the hardware files from this repo)
 
 ### Additional Instructions
   - 16x Choc V1 or V2 switches (V1 recommended before the switch footprint spacing is adjusted).
