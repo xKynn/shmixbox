@@ -21,10 +21,10 @@ Assembly:\
 PCBA Type = Economic\
 Assembly Side = Top Side\
 Tooling holes = Added by Customer\
-Confirm Parts Placement = Yes\
-\
+Confirm Parts Placement = Yes
+
 ------------------------------------------------------
-\
+
 Bottom Plate:\
 Base Material = Aluminum\
 Layers = 1\
@@ -41,4 +41,4 @@ Remove Order Number = Yes\
 Flying Probe Test = Fully Test\
 Gold Fingers = No\
 Castellated Holes = No\
-No advanced options\
+No advanced options
