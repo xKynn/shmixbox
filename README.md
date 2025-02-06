@@ -3,8 +3,6 @@ Leverless keyboard style controller based on Open_Core0 WASD
 
 ## Attribution
 
-The following text must be included in any distribution of derivatives of this board. All links must also be included.
-
 Based on the Open_Core0 WASD board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD
 
 Copyright 2023 [TheTrain](https://github.com/TheTrainGoes)
